@@ -40,7 +40,7 @@ public abstract class User extends Entity{
 		throw new Exception("Username not Exist");
 	}
 	
-
+	//GET id of ...
 	public String getId() {
 		return id;
 	}
